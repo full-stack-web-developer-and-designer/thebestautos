@@ -53,6 +53,6 @@ It serves as both a practical demo and a professional portfolio project.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/TheBestAutos.git
-cd TheBestAutos
+git clone https://github.com/<your-username>/thebestautos.git
+cd thebestautos
 
